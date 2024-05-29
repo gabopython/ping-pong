@@ -1,5 +1,5 @@
-# ping-pong
-ping-pong con python y pygame
+# STACK
+STACK con python y pygame
 
 por [@gabopython](https://www.tiktok.com/@gabopython?lang=en)
 
